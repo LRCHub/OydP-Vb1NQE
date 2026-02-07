@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Mojo Radio Gang",
+  "base_artist": "Parov Stelar",
+  "createdAt": "2026-02-07T17:05:20.159948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang",
+      "artist": "Parov Stelar",
+      "has_synced": false,
+      "path": "select/01_The_Mojo_Radio_Gang_Parov_Stelar.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang",
+      "artist": "Stelar, Parov",
+      "has_synced": false,
+      "path": "select/02_The_Mojo_Radio_Gang_Stelar,_Parov.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang (clubversion)",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/03_The_Mojo_Radio_Gang_(clubversion)_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang (clubversion)",
+      "artist": "Stelar, Parov",
+      "has_synced": true,
+      "path": "select/04_The_Mojo_Radio_Gang_(clubversion)_Stelar,_Parov.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang (Clubversion)",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/05_The_Mojo_Radio_Gang_(Clubversion)_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang (Radioversion)",
+      "artist": "Parov Stelar",
+      "has_synced": false,
+      "path": "select/06_The_Mojo_Radio_Gang_(Radioversion)_Parov_Stelar.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang",
+      "artist": "Stelar, Parov",
+      "has_synced": false,
+      "path": "select/07_The_Mojo_Radio_Gang_Stelar,_Parov.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang [Clubversion] [Version]",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/08_The_Mojo_Radio_Gang_[Clubversion]_[Version]_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang (Radio Version)",
+      "artist": "Parov Stelar",
+      "has_synced": false,
+      "path": "select/09_The_Mojo_Radio_Gang_(Radio_Version)_Parov_Stelar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang (radio version)",
+      "artist": "Stelar, Parov",
+      "has_synced": false,
+      "path": "select/10_The_Mojo_Radio_Gang_(radio_version)_Stelar,_Parov.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang (club version)",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/11_The_Mojo_Radio_Gang_(club_version)_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang",
+      "artist": "Parov Stelar",
+      "has_synced": false,
+      "path": "select/12_The_Mojo_Radio_Gang_Parov_Stelar.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang (radio version)",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/13_The_Mojo_Radio_Gang_(radio_version)_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang - Club Version",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/14_The_Mojo_Radio_Gang_-_Club_Version_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/15_The_Mojo_Radio_Gang_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Mojo Radio Gang - Live @ Pukkelpop",
+      "artist": "Parov Stelar",
+      "has_synced": false,
+      "path": "select/16_The_Mojo_Radio_Gang_-_Live_@_Pukkelpop_Parov_Stelar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Mojo Radio Gang",
+      "artist": "Parov Stelar",
+      "has_synced": false,
+      "path": "select/pl_01_The_Mojo_Radio_Gang_Parov_Stelar.txt"
+    }
+  ]
+}
